@@ -85,7 +85,7 @@ Highlights customer experience and feedback patterns across cities.
 
 ### 4. Vehicle Type Dashboard  
 Compares ride volumes and revenue by vehicle type.  
-![Image](Dashboard_Screenshots/Vehicle%20Type%20DashB.png)
+![Image](https://github.com/Muskaank1106/Ride-and-Operations-Analytics/blob/main/Vehicle%20Type%20DashB.png))
 
 ### 5. Overall Dashboard  
 Summarizes key KPIs for quick business overview.  
