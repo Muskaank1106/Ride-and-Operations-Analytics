@@ -89,7 +89,7 @@ Compares ride volumes and revenue by vehicle type.
 
 ### 5. Overall Dashboard  
 Summarizes key KPIs for quick business overview.  
-![Overall Dashboard](Dashboard_Screenshots/Overall%20DashB.png)
+![Image](https://github.com/Muskaank1106/Ride-and-Operations-Analytics/blob/main/Overall%20DashB.png))
 
 ---
 
