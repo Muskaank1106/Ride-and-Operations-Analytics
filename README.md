@@ -73,7 +73,7 @@ List all incomplete rides along with the reason
 
 ### 1. Revenue Dashboard  
 Shows revenue breakdown by vehicle type and city.  
-![Revenue Dashboard](Dashboard_Screenshots/Revenue%20DashB.png)
+![Image]https://github.com/Muskaank1106/Ride-and-Operations-Analytics/blob/main/Ratings%20DashB.png
 
 ### 2. Cancellation Dashboard  
 Visualizes cancellation reasons, cities with high drop rates, and operational gaps.  
