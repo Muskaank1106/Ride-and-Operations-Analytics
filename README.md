@@ -81,7 +81,7 @@ Visualizes cancellation reasons, cities with high drop rates, and operational ga
 
 ### 3. Ratings Dashboard  
 Highlights customer experience and feedback patterns across cities.  
-![Ratings Dashboard](Dashboard_Screenshots/Ratings%20DashB.png)
+![Image](Dashboard_Screenshots/Ratings%20DashB.png)
 
 ### 4. Vehicle Type Dashboard  
 Compares ride volumes and revenue by vehicle type.  
