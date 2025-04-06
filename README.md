@@ -77,7 +77,7 @@ Shows revenue breakdown by vehicle type and city.
 
 ### 2. Cancellation Dashboard  
 Visualizes cancellation reasons, cities with high drop rates, and operational gaps.  
-![Image](Dashboard_Screenshots/Cancellation%20DashB.png)
+![Image](https://github.com/Muskaank1106/Ride-and-Operations-Analytics/blob/main/Cancellation%20DashB.png))
 
 ### 3. Ratings Dashboard  
 Highlights customer experience and feedback patterns across cities.  
@@ -85,7 +85,7 @@ Highlights customer experience and feedback patterns across cities.
 
 ### 4. Vehicle Type Dashboard  
 Compares ride volumes and revenue by vehicle type.  
-![Vehicle Type Dashboard](Dashboard_Screenshots/Vehicle%20Type%20DashB.png)
+![Image](Dashboard_Screenshots/Vehicle%20Type%20DashB.png)
 
 ### 5. Overall Dashboard  
 Summarizes key KPIs for quick business overview.  
